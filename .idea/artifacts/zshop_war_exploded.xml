@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="zshop:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/zshop_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="zshop/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="zshop" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
